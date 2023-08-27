@@ -1,6 +1,6 @@
 # tsx-mern-27Aug2023
 Starwars internship assignment for TechStax
-L
+
 ### Live = https://starwarsofficial.vercel.app/
 
 ## Features
