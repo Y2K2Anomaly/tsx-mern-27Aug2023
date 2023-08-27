@@ -1,5 +1,6 @@
 # tsx-mern-27Aug2023
-Starwars assignment for TechStax
+Starwars internship assignment for TechStax
+live = https://starwarsofficial.vercel.app/
 
 # Features
 - fetch all starwars characters page by page
