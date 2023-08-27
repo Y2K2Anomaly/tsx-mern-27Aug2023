@@ -13,8 +13,8 @@ const RegisterPage = () => {
     }
 
     return (
-        <div className='mt-12 grow flex items-center justify-around'>
-            <div className='w-[80vw] h-[52vh] sm:h-[55vh]'>
+        <div className='w-[100vw] h-[100vh] grow flex items-center justify-center'>
+            <div className='w-[80vw]'>
                 <h1 className='text-white text-4xl text-center mb-4'>Sign Up</h1>
                 <form className='max-w-lg space-y-1 mx-auto flex flex-col' onSubmit={registerUser}>
                     <input
