@@ -8,4 +8,4 @@ Starwars assignment for TechStax
 - logout automatically in 15minutes when the mock token get expired
 
 # tools and technologies used
-ReactJS, ReduxToolkit, ReduxToolkitQuery, TailwindCSS, moment.js, LocalStorage, Vercel
+ReactJS, ReduxToolkit, ReduxToolkitQuery, TailwindCSS, Faker.js, Moment.js, LocalStorage, Vercel
