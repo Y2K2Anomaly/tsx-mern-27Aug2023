@@ -2,9 +2,9 @@
 Starwars assignment for TechStax
 
 # Features
-- Fetch all starwars characters
+- fetch all starwars characters page by page
 - search by their name
-- particular character info in detail along with pagination in order to move to the next character
+- character modal particular character info in detail along with pagination in order to move to the next character
 - logout automatically in 15minutes when the mock token get expired
 
 # tools and technologies used
