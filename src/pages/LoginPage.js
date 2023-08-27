@@ -19,6 +19,7 @@ const LoginPage = () => {
         setUser({ email, password });
         localStorage.setItem('user', JSON.stringify(user))
         navigate('/');
+        window.location.reload();
     }
 
     return (
