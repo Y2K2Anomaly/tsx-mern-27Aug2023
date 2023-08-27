@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    overflow-x: hidden;
+}
+
+@layer base {
+    html {
+        font-family: 'Cuprum', sans-serif;
+    }
+}
