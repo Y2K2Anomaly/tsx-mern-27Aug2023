@@ -17,10 +17,9 @@ const LoginPage = () => {
         dispatch(setToken(mockToken));
 
         const user = { email, password, mockToken };
-        setUser({ email, password });
-        localStorage.setItem('user', JSON.stringify(user))
+        localStorage.setItem('user', JSON.stringify(user));
+        dispatch(setUser(localStorage.getItem('user')));
         navigate('/');
-        window.location.reload();
     }
 
     return (
